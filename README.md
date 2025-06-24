@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://your-portfolio.com">Website</a> •
   <a href="mailto:christerdaler.main@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/christer-dale-reyes-a02536350/">LinkedIn</a> •
   <a href="https://twitter.com/yourhandle">Twitter</a>
 </p>
 
@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **[Your Project or Company]**
 - 🌱 I’m currently learning **[Tech or Concept]**
-- 👯 I’m looking to collaborate on **Open Source / Freelance Projects**
+
 - 💬 Ask me about **React, Node.js, Python, or anything tech-related**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **christerdaler.main@gmail.com**
 - ⚡ Fun fact: *[Optional quirky fact about you]*
 
 ---
@@ -39,14 +39,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montilla007&layout=compact&theme=github_dark" alt="Top languages" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourusername), or drop an email at **youremail@example.com**.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christer-dale-reyes-a02536350/), or drop an email at **christerdaler.main@gmail.com**.
 
 ---
 
