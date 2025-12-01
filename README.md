@@ -30,11 +30,15 @@
 
 [![Learning](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montilla007)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### GitHub Stats
 
 <!-- GitHub streak -->
-<!-- GitHub streak -->
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Montilla007&style=for-the-badge" alt="Profiles Views"/>
+    </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Montilla007&theme=dark" alt="GitHub Streak"/>
 </p>
 
