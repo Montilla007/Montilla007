@@ -30,7 +30,6 @@
 
 [![Learning](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montilla007)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### GitHub Stats
